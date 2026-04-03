@@ -1,1 +1,20 @@
 # Saiket-System-Internship-Project
+🚀 Excited to share my latest Data Analysis Project!
+
+I recently completed a Business Analysis project focused on Customer Churn Analysis using a telecom dataset as part of my internship at Saiket Systems, finishing it ahead of the scheduled timeline.
+
+🔍 Key Highlights:
+• Identified that ~27% of customers churn, with the highest churn among new users (0–12 months)
+• Found that higher monthly charges are linked to increased churn
+• Discovered that payment methods play a key role — electronic check users show higher churn
+• Observed that long-term customers are more stable and contribute higher value
+
+📊 Tools & Skills Used:
+Python (Pandas, Matplotlib, Seaborn), Data Cleaning, EDA, Data Visualization, Business Insights
+
+💡 Key Takeaway:
+Improving early customer experience and promoting automated payment methods can significantly reduce churn.
+
+This project helped me strengthen my analytical thinking and real-world data problem-solving skills.
+
+#DataAnalytics #DataScience #Python #EDA #BusinessAnalysis #LearningJourney #SaiketSystems
